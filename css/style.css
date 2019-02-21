@@ -1,0 +1,36 @@
+body{
+  background-color: purple;
+  color: white;
+  font-family: arial;
+  margin: 300px;
+  font-size: 1em;
+  text-align: center;
+}
+div{
+  min-height: 50vh;
+  Width: 50vw;
+}
+h1, h2{
+  text-align: center;
+}
+ol{
+  list-style: none;
+  padding: 0;
+  font-style: italic;
+
+
+}
+ul{
+  list-style: none;
+  padding: 0;
+  font-style: italic;
+}
+li:hover{
+  font-size: 5em;
+  font-style: italic;
+  display: flex;
+  transition: 0.9s ease;
+}
+a.link{
+  color: green;
+}
